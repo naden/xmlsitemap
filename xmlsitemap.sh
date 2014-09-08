@@ -1,6 +1,7 @@
 #!/bin/bash
 
 if [ $# -ne 2 ]
+then
 	echo ""
 	echo "Sitemap.xml-Generator (c) Naden Badalgogtapeh <n.b@naden.de> - http://www.naden.de"
 	echo "Usage: xmlsitemap.sh <file with on url per line> <base url>"
