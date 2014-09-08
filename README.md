@@ -11,8 +11,8 @@ __How to use__
 
 __Options__
 
-		<file> File with one url per line.
-		<url> base url  
+    <file> File with one url per line.
+    <url> base url  
 
 *Any questions? Feel free to [contact me](http://www.naden.de/blog).*
 
