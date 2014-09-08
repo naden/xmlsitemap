@@ -5,9 +5,9 @@ Bash script for generating XML-Sitemaps used by searchengine crawlers.
 
 __How to use__
 
-    ./xmlsitemap.xml <file> <url>
-		
-		./xmlsitemap.xml urls.txt http://www.example.com   
+    ./xmlsitemap.sh <file> <url>
+
+    ./xmlsitemap.sh urls.txt http://www.example.com   
 
 __Options__
 
