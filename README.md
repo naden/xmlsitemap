@@ -1,7 +1,7 @@
 XML-Sitemap Generator
 ===============================
 
-Bash script for generating XML-Sitemaps used by searchengine crawlers.
+Bash script for generating XML-Sitemaps used by searchengine crawlers. Automatically splits urls to 50000 per sitemap and generates the required index sitemap too.
 
 __How to use__
 
